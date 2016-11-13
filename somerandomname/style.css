@@ -1,0 +1,43 @@
+h1
+	{
+		text-align: center;
+		text-decoration: underline;
+		color: red;
+		font-size: 100px;
+	}
+li
+	{
+		display: inline-block;
+		outline: 3px yellow;
+		margin: 2em;
+		border-radius: 5px;
+		border: 2px solid black;
+		background: gray;
+
+
+	}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+} 
+
+nav a
+	{
+
+	}
+
+body {
+	background-image: url(https://quote.com/blog/wp-content/uploads/2016/06/american-flag.jpg);
+}
+
+img {
+	display: block;
+	border-image: 4px;
+	border-color: red;
+	margin: auto;
+
+
+}
